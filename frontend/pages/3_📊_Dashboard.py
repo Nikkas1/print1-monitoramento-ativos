@@ -104,4 +104,4 @@ if motor_atual:
         with col_img:
             st.markdown("### Imagem da Placa Cadastrada")
             # Dica: use '/' em vez de '\' ou coloque um 'r' antes da string para evitar erros de caminho
-            st.image(r"A:/AUDI.jpg", caption="Placa do Motor")
+            st.image(r"A:/images.jpg", caption="Placa do Motor")
